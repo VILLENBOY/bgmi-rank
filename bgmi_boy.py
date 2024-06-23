@@ -7,7 +7,7 @@ import time
 logging.basicConfig(level=logging.INFO)
 
 # Initialize the Telegram bot with your bot token
-BOT_TOKEN = '7272569343:AAFoodw8gVJaVYY-Th7FQLkAUW45vfqmvCQ'
+BOT_TOKEN = '7478798497:AAGPkqSnpY-Guoj65AWt_VRkx4LjPoWDB7I'
 bot = TeleBot(BOT_TOKEN)
 
 # Function to perform the stress test
